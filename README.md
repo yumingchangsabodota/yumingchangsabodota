@@ -1,7 +1,5 @@
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yumingchangsabodota&count_private=true&show_icons=true&line_height=25&icon_color=30a14f" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumingchangsabodota&layout=compact&langs_count=8&card_width=245" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yumingchangsabodota" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumingchangsabodota&layout=compact&langs_count=8&card_width=245&theme=dark" />
 </p>
 
 <h2></h2>
