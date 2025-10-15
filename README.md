@@ -1,9 +1,6 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumingchangsabodota&layout=compact&langs_count=4&card_width=245&theme=dark" />
 </p>
-<p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yumingchangsabodota&theme=dark" alt="GitHub Streak" /></a>
-</p>
 
 <h2></h2>
 
