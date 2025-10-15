@@ -1,5 +1,5 @@
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumingchangsabodota&layout=compact&langs_count=4&card_width=245&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumingchangsabodota&layout=compact&langs_count=6&card_width=245&theme=dark" />
 </p>
 
 <h2></h2>
